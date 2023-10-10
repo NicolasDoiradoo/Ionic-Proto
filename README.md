@@ -28,3 +28,8 @@ Conversão de comprimento, peso, volume, temperatura, velocidade, moedas.
 
 ## Sketch
 
+![Tela 1](assets\images\image1.png "Tela 1")
+![Tela 2](assets\images\image2.png "Tela 2")
+![Tela 3](assets\images\image3.png "Tela 3")
+![Tela 4](assets\images\image4.png "Tela 4")
+
